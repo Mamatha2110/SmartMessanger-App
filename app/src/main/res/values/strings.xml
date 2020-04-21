@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Message</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+
+    <string-array name="type_products">
+        <item>Select</item>
+        <item>Shoes</item>
+        <item>Clothes</item>
+        <item>Fruits</item>
+        <item>Electronics</item>
+        <item>Others</item>
+    </string-array>
+</resources>
